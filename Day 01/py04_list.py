@@ -48,7 +48,8 @@ e.sort(reverse=True) # 정렬(내림차순)
 print(e)
 e.insert(2,5.5) # 2번 인덱스에 5.5 입력
 print(e)
-print(e.index(5.5)) #값 찾기
+print(e.index(5.5)) #값 찾기wjswjdrnr^61
+
 
 print('**********************')
 e.append(6)
